@@ -1,7 +1,0 @@
-filename,object_location,image_small,image_thumb
-fashion.png,/objects/fashion.png,/objects/small/fashion_sm.jpg,/objects/thumbs/fashion_th.jpg
-mobile_service_station.png,/objects/mobile_service_station.png,/objects/small/mobile_service_station_sm.jpg,/objects/thumbs/mobile_service_station_th.jpg
-police_service.png,/objects/police_service.png,/objects/small/police_service_sm.jpg,/objects/thumbs/police_service_th.jpg
-public_socialisation.png,/objects/public_socialisation.png,/objects/small/public_socialisation_sm.jpg,/objects/thumbs/public_socialisation_th.jpg
-tea_party.png,/objects/tea_party.png,/objects/small/tea_party_sm.jpg,/objects/thumbs/tea_party_th.jpg
-telephone_exchange.png,/objects/telephone_exchange.png,/objects/small/telephone_exchange_sm.jpg,/objects/thumbs/telephone_exchange_th.jpg
